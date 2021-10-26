@@ -1,5 +1,4 @@
 import React,{useState} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import List from './components/list'
 import AddToList from './components/AddToList';
